@@ -1,11 +1,6 @@
 <h1 align="center">
-  TensorFlow Light Human Tracking
+  Human Tracking
 </h1>
-
-<div align="center">
-  <img src="./outputs/example_yolov5l.gif" width="60%">
-</div>
-
 
 ## <div align="center">Quick Start Example</div>
 
@@ -33,6 +28,3 @@ di `outputs` folder.
 
 ### Dataset
 [TownCentreXVID](https://www.kaggle.com/ashayajbani/oxford-town-centre/version/4?select=TownCentreXVID.mp4).
-
-
-## <div align="center">Citations</div>
